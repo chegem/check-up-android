@@ -1,7 +1,7 @@
 ![Screenshots of progress as of early August](screenshots.jpg)
 
 # CheckUp! Android App
-## By Ashley Maceli - Epicodus 2016
+## By Moses Cege - Epicodus 2022
 
 ## Description
 
