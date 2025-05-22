@@ -32,7 +32,7 @@ You will need the following things properly installed on your computer.
 
 ## Running / Development
 
-* `git clone https://github.com/AshleyRayMaceli/check-up-android` this repository
+* `git clone this repository
 * change into the new directory
 * open in Android Studio
 * boot up emulator with the Nexus 6P model
